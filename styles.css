@@ -1,0 +1,27 @@
+/* Apply general styles */
+body {
+    font-family: Ariel, sans-serif;
+    background-color: blueviolet;
+    margin: 20px;
+    color: white;
+    padding: 10px;
+}
+
+/* Heading*/
+h1 {
+    color: brown;
+    margin-bottom: 15px;
+}
+
+h2 {
+    color: blue;
+    margin-bottom: 10px;
+}
+
+/* Paragraph */
+p {
+    color: azure;
+    background-color: blueviolet;
+    border: 1px solid;
+    padding: 10px;
+}
